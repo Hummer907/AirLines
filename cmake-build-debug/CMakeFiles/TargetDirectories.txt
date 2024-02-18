@@ -1,0 +1,3 @@
+C:/Users/nursu/CLionProjects/ShakhiAirLines/cmake-build-debug/CMakeFiles/ShakhiAirLines.dir
+C:/Users/nursu/CLionProjects/ShakhiAirLines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nursu/CLionProjects/ShakhiAirLines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
